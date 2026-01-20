@@ -1,0 +1,7 @@
+chatbot_rag/
+│
+├── admin_app.py          # File chạy chính (Streamlit Admin UI)
+├── admin_constants.py    # Cấu hình đường dẫn, định dạng file
+├── admin_core_logic.py   # Logic xử lý Document, Splitter, VectorDB
+├── admin_utils.py        # Hàm transform Markdown, xử lý Hash, History
+└── ... (các file user_*.py cũ)

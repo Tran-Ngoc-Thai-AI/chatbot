@@ -1,0 +1,8 @@
+streamlit
+langchain_core
+langchain_text_splitters
+langchain_huggingface
+langchain_chroma
+mammoth
+pymupdf
+sentence-transformers

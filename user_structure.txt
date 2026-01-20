@@ -1,0 +1,8 @@
+project_root/
+│
+├── user_app.py              # File chạy chính (Streamlit UI)
+├── user_constants.py        # Lưu các biến cấu hình (Path, model name)
+├── user_core_logic.py       # Xử lý RAG (Embeddings, VectorDB, Chain)
+├── user_utils.py            # Các hàm bổ trợ (Logging, file handling)
+├── user_requirements.txt    # Danh sách thư viện
+└── chroma_db/               # Thư mục chứa database
