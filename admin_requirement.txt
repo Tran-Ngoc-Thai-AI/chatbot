@@ -6,3 +6,5 @@ langchain_chroma
 mammoth
 pymupdf
 sentence-transformers
+openpyxl
+tabulate
